@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abdoutalby
-- 👀 I’m full stack java developer
+- 👀 I’m angular && spring boot developer
 - 💞️ I’m looking to collaborate on any  project
 - 📫 Reach me at abderrahmentalby@gmail.com
 
