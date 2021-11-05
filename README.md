@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @abdoutalby
-- 👀 I’m interested in Android Developement
-- 🌱 I’m currently learning mobile developement
-- 💞️ I’m looking to collaborate on any mobile project
+- 👀 I’m full stack java developer
+- 💞️ I’m looking to collaborate on any  project
 - 📫 Reach me at abderrahmentalby@gmail.com
 
 <!---
