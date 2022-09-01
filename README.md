@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdoutalby
-- 👀 I’m angular && spring boot developer
-- 💞️ I’m looking to collaborate on any  project
+- 👀 I’m a Full stack  developer
+- 💞️ I’m looking to collaborate on spring boot/angular/flutter/java projects
 - 📫 Reach me at abderrahmentalby@gmail.com
 
 <!---
